@@ -1,0 +1,35 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    margin-top: 2%;
+    
+}
+
+.container div {
+    margin: 5px;
+}
+
+div button{
+    margin: 10px;
+}
+
+.container button {
+    width: 200px;
+    height: 200px;
+}
+
+.btn-1 {
+    background-color: red;
+}
+.btn-2{
+    background-color: blue;
+}
+.btn-3{
+    background-color: aqua;
+}
+.btn-4 {
+    background-color: green;
+}
